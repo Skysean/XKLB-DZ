@@ -692,10 +692,10 @@
 樗	cbeo
 橱	cbeu
 查	cbi
-尺	cbo
+迟	cbo
+尺	cboo
 榇	cboe
 榱	cboei
-迟	cboo
 檫	cboou
 槎	cbou
 羼	cbouo
@@ -4447,7 +4447,7 @@
 煎	jgoooo
 鹣	jguaee
 爝	jguoae
-借	jh
+今	jh
 假	jha
 健	jhae
 倔	jhaea
@@ -4456,12 +4456,14 @@
 俊	jhaou
 隽	jhau
 伽	jhaui
-集	jhe
+借	jhe
+集	jhei
 侥	jhea
 僭	jheai
 臼	jhee
 鼱	jheei
-佳	jhei
+集	jhei
+佳	jheie
 僵	jheia
 伎	jheiao
 佶	jheii
@@ -4470,7 +4472,6 @@
 舅	jhia
 偈	jhiau
 剑	jhii
-今	jho
 佼	jhoe
 僦	jhoee
 皎	jhoeu
@@ -9092,8 +9093,8 @@
 使	sh
 似	sha
 伺	shae
-鼠	shao
-舒	shaoa
+舒	shao
+鼠	shaoa
 叟	shaoo
 俟	shaou
 什	she
