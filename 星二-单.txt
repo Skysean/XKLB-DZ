@@ -1237,7 +1237,7 @@
 礤	cpeiu
 唇	cpi
 厕	cpia
-盛  cpiae
+盛	cpiae
 蹙	cpiai
 磁	cpo
 磋	cpou
@@ -1252,7 +1252,7 @@
 碴	cpeiia
 礤	cpeiua
 唇	cpiaee
-盛  cpiaee
+盛	cpiaee
 殂	cpiaee
 蹙	cpiaie
 厕	cpiaii

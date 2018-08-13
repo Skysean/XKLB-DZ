@@ -3,7 +3,7 @@
 提前了
 州 zgi  晶 jiia  盼 pe
 添加了(包括全码)
-啫 zjeii  辗 niae  呵 kjeii  石  dpiae
+啫 zjeii  辗 niae  呵 kjeii  石 dpiae  盛 cpiae
 2018.8.9
 提前了
 络 lcua
