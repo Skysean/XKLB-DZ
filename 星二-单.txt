@@ -1237,7 +1237,7 @@
 礤	cpeiu
 唇	cpi
 厕	cpia
-殂	cpiae
+盛  cpiae
 蹙	cpiai
 磁	cpo
 磋	cpou
@@ -1252,6 +1252,7 @@
 碴	cpeiia
 礤	cpeiua
 唇	cpiaee
+盛  cpiaee
 殂	cpiaee
 蹙	cpiaie
 厕	cpiaii
@@ -1996,6 +1997,7 @@
 耷	dpeie
 碘	dpi
 硐	dpia
+石  dpiae
 达	dpo
 礅	dpoe
 碲	dpoei
@@ -2013,6 +2015,7 @@
 碟	dpeiei
 夺	dpeioo
 硐	dpiaei
+石  dpiaee
 碘	dpiauo
 达	dpoaoo
 碲	dpoeia
@@ -4524,8 +4527,8 @@
 巨	jia
 戒	jie
 旧	jii
-辑	jiia
-晶	jiiai
+晶	jiia
+辑	jiiae
 景	jio
 炅	jiou
 皆	jiu
@@ -5323,6 +5326,7 @@
 趶	kjee
 嗑	kjei
 跬	kjeie
+呵  kjeii
 跨	kjeu
 喹	kjeue
 啃	kji
@@ -5340,6 +5344,7 @@
 趶	kjeeii
 跬	kjeiei
 嗑	kjeiia
+呵  kjeiia
 跨	kjeuee
 喹	kjeuei
 哭	kjeuoo
@@ -7210,6 +7215,7 @@
 昵	nia
 匿	nie
 曩	nio
+辗  niae
 昵	niaeua
 匿	nieieu
 曩	nioeia
@@ -7519,7 +7525,7 @@
 袢	pdouii
 袍	pduaae
 裨	pduiei
-帕	pe
+盼	pe
 帔	pea
 瞟	pee
 毗	peea
@@ -7531,7 +7537,7 @@
 赔	peo
 螃	peoe
 畔	peou
-盼	peu
+帕	peu
 睥	peui
 蜱	peuie
 蟠	peuo
@@ -13371,13 +13377,13 @@
 甑	zgea
 糟	zgei
 灶	zgeie
-曾	zgi
+州	zgi
 燥	zgia
+曾	zgiae
 烛	zgiao
 炽	zgiau
 粘	zgie
 焯	zgiei
-州	zgii
 总	zgo
 遵	zgoa
 炷	zgoe
@@ -13522,6 +13528,7 @@
 啭	zjeae
 吱	zjei
 喳	zjeia
+啫  zjeii
 哳	zjeiu
 啄	zjeu
 跖	zjeui
@@ -13556,6 +13563,7 @@
 咂	zjeaia
 啧	zjeeia
 吱	zjeiao
+啫  zjeiia
 喳	zjeiia
 哳	zjeiuu
 跖	zjeuia
