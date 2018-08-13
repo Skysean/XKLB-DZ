@@ -1997,7 +1997,7 @@
 耷	dpeie
 碘	dpi
 硐	dpia
-石  dpiae
+石	dpiae
 达	dpo
 礅	dpoe
 碲	dpoei
@@ -2015,7 +2015,7 @@
 碟	dpeiei
 夺	dpeioo
 硐	dpiaei
-石  dpiaee
+石	dpiaee
 碘	dpiauo
 达	dpoaoo
 碲	dpoeia
@@ -5326,7 +5326,7 @@
 趶	kjee
 嗑	kjei
 跬	kjeie
-呵  kjeii
+呵	kjeii
 跨	kjeu
 喹	kjeue
 啃	kji
@@ -5344,7 +5344,7 @@
 趶	kjeeii
 跬	kjeiei
 嗑	kjeiia
-呵  kjeiia
+呵	kjeiia
 跨	kjeuee
 喹	kjeuei
 哭	kjeuoo
@@ -7215,7 +7215,8 @@
 昵	nia
 匿	nie
 曩	nio
-辗  niae
+辗	niae
+辗	niaeei
 昵	niaeua
 匿	nieieu
 曩	nioeia
@@ -13528,7 +13529,7 @@
 啭	zjeae
 吱	zjei
 喳	zjeia
-啫  zjeii
+啫	zjeii
 哳	zjeiu
 啄	zjeu
 跖	zjeui
@@ -13563,7 +13564,7 @@
 咂	zjeaia
 啧	zjeeia
 吱	zjeiao
-啫  zjeiia
+啫	zjeiia
 喳	zjeiia
 哳	zjeiuu
 跖	zjeuia
