@@ -3799,7 +3799,7 @@
 沪	hto
 浑	htoe
 浒	htoa
-濠	htoe
+濠	htoee
 沆	htoeo
 浣	htoo
 活	htu
@@ -6354,7 +6354,7 @@
 粱	ltou
 溜	ltu
 洛	ltua
-泺	ltua
+泺	ltuao
 沦	ltuo
 鎏	ltuoe
 泠	ltuoo
@@ -7027,7 +7027,7 @@
 茂	mwe
 蒙	mwee
 甍	mwea
-茉	mwee
+茉	mweeo
 墓	mwei
 莽	mweu
 颟	mweui
@@ -7594,7 +7594,6 @@
 炮	pguaae
 粕	pguiee
 叛	pguuao
-凭	phu
 片	pha
 僻	phae
 郫	phai
@@ -7607,6 +7606,7 @@
 乓	phoo
 牌	phu
 佩	phua
+凭	phue
 魄	phui
 皤	phuo
 乒	phuu
@@ -8505,7 +8505,7 @@
 荠	qwo
 蕖	qwoo
 蕲	qwou
-芹	qwu
+芹	qwuu
 芡	qwua
 芪	qwuaa
 荞	qwue
@@ -12153,8 +12153,7 @@
 鹰	yfuae
 痈	yfuai
 旖	yfue
-庾	yfui
-瘐	yfuio
+庾	yfuio
 於	yfuo
 饔	yfuoo
 兖	yfuou
@@ -13917,8 +13916,7 @@
 沾	ztie
 浊	ztia
 浞	ztiai
-淖	ztie
-浈	ztiei
+淖	ztiei
 洲	zto
 漳	ztoe
 滓	ztoo
