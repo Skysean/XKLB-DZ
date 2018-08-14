@@ -4248,10 +4248,10 @@
 裾	jdaee
 谲	jdao
 皲	jdau
-军	jde
-诫	jdea
+讲	jde
+军	jdea
 讵	jdeaa
-讲	jdee
+诫	jdeae
 讦	jdeei
 谨	jdei
 襟	jdeie
@@ -7453,11 +7453,11 @@
 屏	pb
 劈	pba
 杷	pbai
-攀	pbe
-屁	pbea
+屁	pbe
 甓	pbeao
 枇	pbeau
 枰	pbeo
+攀	pbeu
 朴	pbi
 榀	pbia
 辟	pbo
