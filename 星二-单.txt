@@ -1920,8 +1920,8 @@
 答	dluoia
 稻	dluoui
 得	dm
-德	dme
-待	dmei
+待	dme
+德	dmei
 盾	dmeii
 遁	dmo
 舵	dmoo
@@ -13903,12 +13903,11 @@
 濯	ztaou
 沼	ztau
 汁	zte
-浙	ztee
 渍	zteei
 溱	zteeu
 澍	zteie
-渣	ztei
-滞	zteii
+浙	ztei
+渣	zteii
 渚	zteiia
 湛	zteiu
 涿	zteu
@@ -13933,8 +13932,8 @@
 溱	zteeue
 澍	zteiei
 滞	zteiia
+渣	zteiia
 汁	zteiii
-渣	zteiii
 湛	zteiuo
 浙	zteiuu
 涿	zteuoo
