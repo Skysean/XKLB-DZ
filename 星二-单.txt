@@ -2359,8 +2359,8 @@
 烽	fguaee
 粉	fguoau
 燔	fguoia
+付	fh
 佛	fha
-付	fhe
 伐	fhea
 俸	fhee
 傅	fhei
@@ -6704,8 +6704,8 @@
 磨	mfe
 瘼	mfeii
 亩	mfi
-蛮	mfia
-盲	mfiae
+盲	mfia
+蛮	mfiao
 靡	mfie
 庙	mfii
 糜	mfo
