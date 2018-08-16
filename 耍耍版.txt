@@ -6215,7 +6215,7 @@
 陀	tzo
 粜	tzou
 而	v
-安	v;
+安	v
 阏	va
 桉	vb
 屙	vba
