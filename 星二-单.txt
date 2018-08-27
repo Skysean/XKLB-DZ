@@ -7816,13 +7816,13 @@
 淠	ptia
 滂	pto
 泮	ptou
-潘	ptu
-泡	ptua
+泡	ptu
+潘	ptuo
 泺	ptuao
 湃	ptue
 濮	ptui
 濞	ptuii
-湓	ptuo
+湓	ptuoi
 泼	ptauao
 婆	ptauee
 漂	pteiee
