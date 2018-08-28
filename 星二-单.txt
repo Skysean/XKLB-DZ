@@ -7593,8 +7593,8 @@
 炮	pguaae
 粕	pguiee
 叛	pguuao
-片	pha
-僻	phae
+片	ph
+僻	pha
 郫	phai
 仳	phe
 仆	phi
@@ -10838,9 +10838,9 @@
 稳	wluaoa
 物	wluauu
 魏	wluiao
+往	wm
 艉	wma
 微	wmi
-往	wmo
 艉	wmaeue
 微	wmiaue
 往	wmoeee
