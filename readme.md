@@ -11,7 +11,7 @@
 所有偏旁的引导从i改为o
 
 提前了
-往 wm  片 ph
+往 wm  片 ph  机 jbu  己 jb  意 yf  思 seo  试 sde
 
 
 2018.8.27
