@@ -12572,6 +12572,7 @@
 懿	yno
 墉	ynoe
 垸	ynoo
+垟	ynou
 妖	ynu
 埶	ynua
 埏	ynui
@@ -13906,7 +13907,6 @@
 澍	zteie
 浙	ztei
 渣	zteii
-渚	zteiia
 湛	zteiu
 涿	zteu
 澡	zti
@@ -13931,6 +13931,7 @@
 澍	zteiei
 滞	zteiia
 渣	zteiia
+渚	zteiia
 汁	zteiii
 湛	zteiuo
 浙	zteiuu
