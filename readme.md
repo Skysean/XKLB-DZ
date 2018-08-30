@@ -1,5 +1,7 @@
 # 下载地址：
-* https://raw.githubusercontent.com/Skysean/XKLB-DZ/master/%E6%98%9F%E4%BA%8C-%E5%8D%95.txt
+* 星二单（带全码）：https://raw.githubusercontent.com/Skysean/XKLB-DZ/master/%E6%98%9F%E4%BA%8C-%E5%8D%95.txt
+
+* 星二单（有简无全）：https://raw.githubusercontent.com/Skysean/XKLB-DZ/master/%E6%98%9F%E4%BA%8C-%E5%8D%95(%E6%9C%89%E7%AE%80%E6%97%A0%E5%85%A8).txt
 
 # 更新内容
 
