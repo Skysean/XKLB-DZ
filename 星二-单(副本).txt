@@ -63,6 +63,7 @@
 膊	bcei
 膘	bceie
 绊	bco
+膀	bcoe
 缤	bcoo
 膑	bcoou
 胞	bcu
@@ -7604,8 +7605,8 @@
 迫	phoa
 乓	phoo
 牌	phu
-佩	phua
-凭	phue
+凭	phua
+佩	phuae
 魄	phui
 皤	phuo
 乒	phuu
