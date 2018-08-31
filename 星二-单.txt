@@ -6663,6 +6663,7 @@
 勉	mkau
 猫	mke
 馍	mkei
+獴	mkeie
 獏	mkeii
 名	mki
 免	mkia
@@ -6675,6 +6676,7 @@
 猛	mkaiia
 卯	mkaiii
 勉	mkauuu
+獴	mkeiee
 猫	mkeiia
 獏	mkeiia
 馍	mkeiia

@@ -3399,6 +3399,7 @@
 勉	mkau
 猫	mke
 馍	mkei
+獴	mkeie
 獏	mkeii
 名	mki
 免	mkia
