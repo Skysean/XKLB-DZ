@@ -8001,6 +8001,7 @@
 诮	qdio
 谦	qdo
 祈	qdu
+祇	qdua
 讫	qdue
 谯	qdui
 诠	qduo
@@ -8018,6 +8019,7 @@
 谴	qdiaoa
 诮	qdioia
 谦	qdouoo
+祇	qduaaa
 讫	qdueaa
 谯	qduioo
 诠	qduoee
