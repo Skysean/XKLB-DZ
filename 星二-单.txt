@@ -1803,6 +1803,7 @@
 蹲	djo
 踱	djoe
 踮	djoei
+蹾	djoeu
 嘀	djoeia
 啶	djoo
 啖	djou
@@ -1833,6 +1834,7 @@
 噹	djioia
 踱	djoeao
 踮	djoeia
+蹾	djoeue
 啶	djooei
 蹲	djouei
 籴	djouoo
