@@ -852,8 +852,8 @@
 度	df
 癜	dfa
 冻	dfe
-癫	dfei
-痘	dfeia
+痘	dfei
+癫	dfeie
 疔	dfeii
 瘩	dfeiu
 端	dfi
@@ -3872,7 +3872,8 @@
 片	ph
 僻	pha
 郫	phai
-仳	phe
+便	phe
+仳	phea
 仆	phi
 俜	phia
 俳	phie
@@ -6922,7 +6923,7 @@
 嘬	zjiaei
 躅	zjiau
 足	zjie
-趾	zjieee
+趾	zjiee
 躁	zjieei
 呲	zjieu
 踪	zjo
