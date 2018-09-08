@@ -9503,6 +9503,7 @@
 守	ss
 愫	ssee
 宋	sse
+室	ssea
 塞	ssei
 慑	sseia
 恃	sseie
