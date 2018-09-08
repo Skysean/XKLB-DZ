@@ -2614,13 +2614,14 @@
 炕	kgo
 糠	kgoe
 夔	kgu
-魁	kh
+会	kh
 郐	kha
 龛	khe
 侉	kheu
 侃	khi
 佧	khie
-伉	kho
+魁	kho
+伉	khoe
 倥	khoo
 傀	khu
 侩	khuo
