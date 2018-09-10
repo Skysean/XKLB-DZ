@@ -3960,6 +3960,7 @@
 砰	ppe
 砒	ppea
 丕	ppee
+磅	ppo
 硼	ppu
 匏	ppua
 殍	ppuo
@@ -6055,6 +6056,7 @@
 橼	ybaa
 楹	ybau
 异	ybe
+枒	ybea
 椰	ybei
 鬻	ybeia
 桠	ybeie

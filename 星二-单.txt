@@ -7773,6 +7773,7 @@
 砰	ppe
 砒	ppea
 丕	ppee
+磅	ppo
 硼	ppu
 匏	ppua
 殍	ppuo
@@ -7782,6 +7783,7 @@
 砒	ppeaua
 丕	ppeeee
 砰	ppeoii
+磅	ppoeoe
 碰	ppouei
 匏	ppuaae
 硼	ppuaua
@@ -11901,6 +11903,7 @@
 橼	ybaa
 楹	ybau
 异	ybe
+枒	ybea
 椰	ybei
 鬻	ybeia
 桠	ybeie
@@ -11921,6 +11924,7 @@
 橼	ybaaaa
 楹	ybauia
 杨	ybauuu
+枒	ybeauu
 鬻	ybeiae
 椰	ybeiai
 桠	ybeiee
