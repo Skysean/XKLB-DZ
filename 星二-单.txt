@@ -10767,8 +10767,9 @@
 旺	wie
 韪	wiee
 晤	wiei
-辒	wii
-辋	wiia
+卧	wii
+辒	wiia
+辋	wiiao
 瓦	wio
 晚	wiu
 暐	wiaiia
@@ -10778,6 +10779,7 @@
 晤	wieiia
 辒	wiiaia
 辋	wiiaou
+卧	wiiooo
 瓦	wioooo
 晚	wiuaia
 万	wiuuuu
@@ -11017,7 +11019,6 @@
 婺	wxauee
 鹜	wxuaee
 五	wy
-卧	wyi
 吾	wyia
 軎	wyiae
 巫	wyu
@@ -11025,7 +11026,6 @@
 五	wyeeee
 軎	wyiaee
 吾	wyiaee
-卧	wyiooo
 斡	wyuooo
 巫	wyuouo
 卫	wz

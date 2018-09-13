@@ -5483,8 +5483,9 @@
 旺	wie
 韪	wiee
 晤	wiei
-辒	wii
-辋	wiia
+卧	wii
+辒	wiia
+辋	wiiao
 瓦	wio
 晚	wiu
 味	wj
@@ -5606,7 +5607,6 @@
 婺	wxauee
 鹜	wxu
 五	wy
-卧	wyi
 吾	wyia
 軎	wyiae
 巫	wyu
