@@ -426,6 +426,7 @@
 蝽	ceeei
 畤	ceei
 螬	ceeii
+瞋	ceeiu
 赐	cei
 串	ceii
 瞠	ceio
@@ -921,6 +922,7 @@
 嗒	djeiu
 哒	djeu
 呔	djeuo
+跶	djeuoa
 吊	dji
 噹	djio
 蹲	djo
@@ -1732,6 +1734,7 @@
 冱	hfea
 癀	hfei
 颃	hfeu
+竑	hfeua
 肓	hfi
 亥	hfo
 麾	hfu
@@ -1753,6 +1756,7 @@
 会	hh
 候	hha
 侯	hhae
+郃	hhai
 何	hhe
 皇	hhee
 鼾	hheei
@@ -2279,6 +2283,7 @@
 馑	jkeii
 鲒	jkeiia
 獗	jkeu
+颎	jkeui
 句	jki
 咎	jkia
 狙	jkiae
@@ -2326,6 +2331,7 @@
 筋	jlu
 笈	jlua
 矫	jlue
+篯	jluee
 近	jm
 径	jma
 街	jme
@@ -2554,6 +2560,7 @@
 阔	ka
 阚	kaa
 阃	kai
+闿	kaia
 闶	kao
 框	kb
 柯	kbe
@@ -3231,6 +3238,7 @@
 苓	lwuo
 莶	lwuoo
 蔹	lwuou
+葎	lwuu
 垒	lx
 戮	lxe
 鹨	lxu
@@ -4009,6 +4017,7 @@
 扑	pui
 拼	puo
 掊	puoe
+雱	puoea
 霈	puoo
 撇	puou
 拍	puu
@@ -5093,6 +5102,7 @@
 踏	tjia
 蹋	tjiaa
 鼍	tjiaaa
+蹚	tjio
 啼	tjo
 逃	tjoa
 蹄	tjoe
@@ -6104,6 +6114,7 @@
 诒	ydao
 讶	yde
 谳	ydei
+祐	ydeu
 谒	ydi
 永	ydo
 谚	ydoe
@@ -6430,6 +6441,7 @@
 埏	ynui
 姚	ynuo
 媛	ynuoe
+鋆	ynuoee
 圻	ynuu
 于	yo
 云	yoa

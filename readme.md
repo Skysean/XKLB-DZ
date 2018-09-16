@@ -13,7 +13,7 @@
 ````
 2018.9.16
 添加了
-艾 ywuo（带全码）
+艾 ywuo  鋆 ynuoee  祐 ydeu  郃 hhai  竑 hfeua  闿 kaia  雱 puoea  蹚 tjio  葎 lwuu  颎 jkeui  瞋 ceeiu  篯	jluee  跶 djeuoa  （带全码）
 
 提前了
 艋 mm  即 jba
