@@ -3952,9 +3952,9 @@
 间	jaiaee
 阄	jauaia
 己	jb
+即	jba
 楗	jbae
 椐	jbaee
-即	jbai
 局	jbaia
 郡	jbaii
 建	jbao
@@ -6715,7 +6715,7 @@
 敏	mlueoo
 牧	mlueoo
 穆	mluiiu
-艋	mma
+艋	mm
 艨	mme
 艋	mmaiia
 艨	mmeiee
@@ -12934,7 +12934,8 @@
 莠	ywue
 萸	ywui
 莜	ywuiu
-蓥	ywuo
+艾	ywuo
+蓥	ywuoe
 艺	ywaaaa
 蕴	ywaaia
 萦	ywaaiu
@@ -12966,6 +12967,7 @@
 萸	ywuioo
 莜	ywuiue
 蓥	ywuoee
+艾	ywuooo
 以	yx
 勇	yxa
 羽	yxao

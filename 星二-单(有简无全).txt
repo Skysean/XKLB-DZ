@@ -2012,9 +2012,9 @@
 间	ja
 阄	jau
 己	jb
+即	jba
 楗	jbae
 椐	jbaee
-即	jbai
 局	jbaia
 郡	jbaii
 建	jbao
@@ -3421,7 +3421,7 @@
 牧	mlue
 牦	mluea
 穆	mlui
-艋	mma
+艋	mm
 艨	mme
 妈	mn
 姆	mna
@@ -6607,7 +6607,8 @@
 莠	ywue
 萸	ywui
 莜	ywuiu
-蓥	ywuo
+艾	ywuo
+蓥	ywuoe
 以	yx
 勇	yxa
 羽	yxao
