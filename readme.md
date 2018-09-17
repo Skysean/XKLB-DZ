@@ -11,6 +11,14 @@
 ### 除了被提前的其他延顺笔画下去
 
 ````
+2018.9.17
+修改了
+沆 htoeu
+
+提前了
+仰 yhu  佣 yhua  仡 yhue
+
+
 2018.9.16
 添加了
 艾 ywuo  鋆 ynuoee  祐 ydeu  郃 hhai  竑 hfeua  闿 kaia  雱 puoea  蹚 tjio  葎 lwuu  颎 jkeui  瞋 ceeiu  篯	jluee  跶 djeuoa  （带全码）

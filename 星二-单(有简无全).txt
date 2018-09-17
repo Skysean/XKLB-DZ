@@ -1949,8 +1949,7 @@
 浑	htoaea
 浑	htoe
 濠	htoee
-沆	htoeo
-沆	htoeua
+沆	htoeu
 浣	htoo
 活	htu
 鸿	htua
@@ -6278,9 +6277,9 @@
 臾	yhooo
 仪	yhou
 佯	yhoue
-仰	yhua
-佣	yhuai
-仡	yhuea
+仰	yhu
+佣	yhua
+仡	yhue
 佚	yhueo
 攸	yhueoo
 舆	yhuo
