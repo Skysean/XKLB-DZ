@@ -3635,7 +3635,7 @@
 後	hmaa
 行	hme
 徽	hmi
-徊	hmie
+徊	hmia
 航	hmo
 逅	hmoa
 衡	hmu
@@ -3646,7 +3646,7 @@
 行	hmeeii
 后	hmiaee
 徽	hmiaue
-徊	hmieai
+徊	hmiaia
 逅	hmoaoo
 航	hmoeua
 鸻	hmuaee
