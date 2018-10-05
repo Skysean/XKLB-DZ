@@ -9459,9 +9459,10 @@
 死	sp
 耍	spa
 磉	spao
-厮	spe
+厦	spe
 厍	spea
 奢	spei
+厮	speiu
 硕	speu
 石	spi
 盛	spia
@@ -9481,6 +9482,7 @@
 奢	speiia
 厮	speiuu
 硕	speuia
+厦	speuua
 盛	spiaee
 石	spiaee
 砷	spiaii
@@ -12687,7 +12689,7 @@
 有	yp
 友	ypa
 郁	ypai
-翳	ypao
+翳	yiao
 压	ype
 砑	ypea
 研	ypee
@@ -12711,7 +12713,7 @@
 魇	ypuia
 餍	ypuo
 郁	ypaiii
-翳	ypaoao
+翳	yiaoao
 友	ypaooo
 砑	ypeauu
 研	ypeeii

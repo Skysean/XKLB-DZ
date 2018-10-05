@@ -2,13 +2,13 @@
 # encoding: utf-8
 
 schema:
-  schema_id: XKLB-DZ
+  schema_id: XKLB_DZ
   name: 星空两笔-单字
   version: "Q1"
   author:
     - 方案作者：大牛；文件制作：右耍
   dependencies:
-    - XKLB-DZ
+    - XKLB_DZ
 
 punctuator:
   full_shape:
@@ -129,7 +129,7 @@ speller:
   #  - derive/([bpmfdtnlgkhjqxzcsrywe][a-z][viuoa])[viuoa]+/$1/ #顶简为全码
 
 translator:
-  dictionary: XKLB-DZ
+  dictionary: XKLB_DZ
   enable_charset_filter: false
   enable_completion: true
   enable_encoder: true
@@ -164,7 +164,7 @@ custom_phrase:
   enable_sentence: false
 
 reverse_lookup:
-  dictionary: XKLB-DZ
+  dictionary: XKLB_DZ
   prefix: "i"
   comment_format:
     - xform/^/〔/

@@ -7853,6 +7853,7 @@
 抨	pueo
 拋	pueu
 扑	pui
+平	puii
 拼	puo
 掊	puoe
 霈	puoo
@@ -9431,9 +9432,10 @@
 死	sp
 耍	spa
 磉	spao
-厮	spe
+厦	spe
 厍	spea
 奢	spei
+厮	speiu
 硕	speu
 石	spi
 盛	spia
